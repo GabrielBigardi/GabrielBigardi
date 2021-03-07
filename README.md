@@ -1,6 +1,10 @@
 # Contact
-[![twitter](./twitter.svg)](https://twitter.com/bigardigabriel){:height="100px" width="100px"}
-[![discord](./discordia.svg)](https://discord.com/users/429799860959576066){:height="100px" width="100px"}
+<img src="./twitter.svg" width="100" height="100">
+<img src="./twitter.svg" width="100" height="100">
+
+
+https://twitter.com/bigardigabriel
+https://discord.com/users/429799860959576066
 
 # GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielbigardi&show_icons=true&theme=radical&bg_color=90,141321,2b2154)  
