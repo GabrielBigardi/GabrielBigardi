@@ -1,3 +1,6 @@
+# About
+- General Developer with focus on Game Dev <img src="https://raw.githubusercontent.com/gabrielbigardi/gabrielbigardi/master/images/game.png" height="16px"/>
+
 # GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielbigardi&show_icons=true&theme=radical&bg_color=90,141321,2b2154&hide=prs)  
   
