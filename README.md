@@ -7,6 +7,6 @@
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbigardi&theme=radical&bg_color=90,141321,2b2154)-->
 
 # Contact
-<a href="https://twitter.com/bigardigabriel"><img src="./twitter.svg" width="75" height="75">
-<a href="https://discord.com/users/429799860959576066"><img src="./discord.svg" width="75" height="75">
-<a href="mailto:gabrielbigardi@hotmail.com"><img src="./email.svg" width="75" height="75">
+<a href="https://twitter.com/bigardigabriel"><img src="./twitter.svg" width="75" height="75" /></a>
+<a href="https://discord.com/users/429799860959576066"><img src="./discord.svg" width="75" height="75" /></a>
+<a href="mailto:gabrielbigardi@hotmail.com"><img src="./email.svg" width="75" height="75" /></a>
