@@ -8,5 +8,5 @@
 
 # Contact
 <a href="https://twitter.com/bigardigabriel"><img src="./twitter.svg" width="75" height="75">
-<a href="https://discord.com/users/429799860959576066"><img src="./discordia.svg" width="75" height="75">
-<a href="mailto:gabrielbigardi@hotmail.com"><img src="./emailicon.svg" width="75" height="75">
+<a href="https://discord.com/users/429799860959576066"><img src="./discord.svg" width="75" height="75">
+<a href="mailto:gabrielbigardi@hotmail.com"><img src="./email.svg" width="75" height="75">
