@@ -2,7 +2,7 @@
 - General Developer with focus on Game Dev <img src="https://raw.githubusercontent.com/gabrielbigardi/gabrielbigardi/master/images/game.png" height="16px"/>
 
 # GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielbigardi&show_icons=true&theme=radical&bg_color=90,141321,2b2154&hide=prs)  
+![GitHub Stats](http://150.230.64.239:9000/api?username=gabrielbigardi&show_icons=true&theme=radical&bg_color=90,141321,2b2154&hide=prs)  
   
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbigardi&theme=radical&bg_color=90,141321,2b2154)-->
 
