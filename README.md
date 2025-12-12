@@ -17,6 +17,7 @@
 
 **— Game Development —**  
 ![Unity](https://img.shields.io/badge/unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Netcode for GameObjects](https://img.shields.io/badge/ngo-000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Monogame](https://img.shields.io/badge/monogame-000000.svg?style=for-the-badge&logo=monogame&logoColor=white)
 ![FMod](https://img.shields.io/badge/fmod-000000.svg?style=for-the-badge&logo=fmod&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/aseprite-000000.svg?style=for-the-badge&logo=aseprite&logoColor=white)
@@ -42,14 +43,24 @@
 
 **— Web3 —**  
 ![BlockChain](https://img.shields.io/badge/blockchain-000000.svg?style=for-the-badge&logo=web3.js&logoColor=white)
-![WEB3](https://img.shields.io/badge/web3-000000.svg?style=for-the-badge&logo=web3.js&logoColor=white)
+![Web3JS](https://img.shields.io/badge/web3.js-000000.svg?style=for-the-badge&logo=web3.js&logoColor=white)
+![EthersJS](https://img.shields.io/badge/ethers.js-000000.svg?style=for-the-badge&logo=web3.js&logoColor=white)
 ![MetaMask](https://img.shields.io/badge/metamask-000000.svg?style=for-the-badge&logo=web3.js&logoColor=white)
 
 **— DevOps & Tools —**  
 ![Git](https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-000000.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/docker%20compose-000000.svg?style=for-the-badge&logo=docker&logoColor=white)
+![HAProxy](https://img.shields.io/badge/haproxy-000000.svg?style=for-the-badge&logo=haproxy&logoColor=white)
+![Load Balancer](https://img.shields.io/badge/load%20balancer-000000.svg?style=for-the-badge&logo=loadbalancer&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/cloudflare-000000.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-000000.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![SSH](https://img.shields.io/badge/ssh-000000.svg?style=for-the-badge&logo=linux&logoColor=white)
+
+**— IDEs —**  
+![Visual Studio](https://img.shields.io/badge/visual%20studio-000000.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
+![JetBrains Rider](https://img.shields.io/badge/rider-000000.svg?style=for-the-badge&logo=rider&logoColor=white)
+![VSCode](https://img.shields.io/badge/vscode-000000.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Antigravity](https://img.shields.io/badge/antigravity-000000.svg?style=for-the-badge&logo=antigravity&logoColor=white)
 
 </div>
