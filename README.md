@@ -43,7 +43,7 @@ I'm a full-stack developer and game developer and a dark-theme lover
 ![NodeJS](https://img.shields.io/badge/nodejs-000000.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bun](https://img.shields.io/badge/bun-000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![ElysiaJS](https://img.shields.io/badge/elysiajs-000000.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![GinGonic](https://img.shields.io/badge/gingonic-000000.svg?style=for-the-badge&logo=go&logoColor=white)
+![GinGonic](https://img.shields.io/badge/gin-000000.svg?style=for-the-badge&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)
