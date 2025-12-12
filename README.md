@@ -1,7 +1,12 @@
+### 👨‍💻 **About**
+```diff
+I'm a full-stack developer and game developer and a dark-theme lover
+```
+  
+### ⚡ **Tech Stack**
+
 <div align="center">
   
-### 🛠 **Tech Stack**
-
 **— Languages —**  
 ![C#](https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Golang](https://img.shields.io/badge/golang-000000.svg?style=for-the-badge&logo=go&logoColor=white)
