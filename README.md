@@ -8,7 +8,7 @@ I'm a full-stack developer and game developer and a dark-theme lover
 <div align="center">
   
 **— Languages —**  
-![C#](https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Golang](https://img.shields.io/badge/golang-000000.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-000000.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/js-000000.svg?style=for-the-badge&logo=javascript&logoColor=white)
