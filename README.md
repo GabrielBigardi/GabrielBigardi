@@ -48,6 +48,7 @@ I'm a full-stack developer and game developer and a dark-theme lover
 ![MySQL](https://img.shields.io/badge/mysql-000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/drizzle-000000.svg?style=for-the-badge&logo=drizzle&logoColor=white)
+![Valkey](https://img.shields.io/badge/valkey-000000.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 **— Web3 —**  
 ![BlockChain](https://img.shields.io/badge/blockchain-000000.svg?style=for-the-badge&logo=web3.js&logoColor=white)
