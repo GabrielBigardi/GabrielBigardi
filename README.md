@@ -28,6 +28,7 @@ I'm a full-stack developer and game developer and a dark-theme lover
 ![Monogame](https://img.shields.io/badge/monogame-000000.svg?style=for-the-badge&logo=monogame&logoColor=white)
 ![ArchECS](https://img.shields.io/badge/arch%20ecs-000000.svg?style=for-the-badge&logo=monogame&logoColor=white)
 ![FMod](https://img.shields.io/badge/fmod-000000.svg?style=for-the-badge&logo=fmod&logoColor=white)
+![Audacity](https://img.shields.io/badge/audacity-000000.svg?style=for-the-badge&logo=audacity&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/aseprite-000000.svg?style=for-the-badge&logo=aseprite&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Steamworks](https://img.shields.io/badge/steamworks-000000.svg?style=for-the-badge&logo=steam&logoColor=white)
@@ -55,6 +56,7 @@ I'm a full-stack developer and game developer and a dark-theme lover
 ![Web3JS](https://img.shields.io/badge/web3.js-000000.svg?style=for-the-badge&logo=web3.js&logoColor=white)
 ![EthersJS](https://img.shields.io/badge/ethers.js-000000.svg?style=for-the-badge&logo=web3.js&logoColor=white)
 ![MetaMask](https://img.shields.io/badge/metamask-000000.svg?style=for-the-badge&logo=web3.js&logoColor=white)
+![BNB Chain](https://img.shields.io/badge/bnb%20chain-000000.svg?style=for-the-badge&logo=bnbchain&logoColor=white)
 
 **— DevOps & Tools —**  
 ![Git](https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -62,11 +64,13 @@ I'm a full-stack developer and game developer and a dark-theme lover
 ![GitHub Desktop](https://img.shields.io/badge/github%20desktop-000000.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-000000.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/docker%20compose-000000.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-000000.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![HAProxy](https://img.shields.io/badge/haproxy-000000.svg?style=for-the-badge&logo=haproxy&logoColor=white)
 ![Load Balancer](https://img.shields.io/badge/load%20balancer-000000.svg?style=for-the-badge&logo=loadbalancer&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/cloudflare-000000.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-000000.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![SSH](https://img.shields.io/badge/ssh-000000.svg?style=for-the-badge&logo=linux&logoColor=white)
+![AnyDesk](https://img.shields.io/badge/anydesk-000000.svg?style=for-the-badge&logo=anydesk&logoColor=white)
 
 **— IDEs —**  
 ![Visual Studio](https://img.shields.io/badge/visual%20studio-000000.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
