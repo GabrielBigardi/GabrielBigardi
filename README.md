@@ -71,6 +71,8 @@ I'm a full-stack developer and game developer and a dark-theme lover
 ![BlockChain](https://img.shields.io/badge/blockchain-000000.svg?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Web3JS](https://img.shields.io/badge/web3.js-000000.svg?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Ethers](https://img.shields.io/badge/ethers-000000.svg?style=for-the-badge&logo=ethers&logoColor=white)
+![Wagmi](https://img.shields.io/badge/wagmi-000000.svg?style=for-the-badge&logo=wagmi&logoColor=white)
+![Thirdweb](https://img.shields.io/badge/thirdweb-000000.svg?style=for-the-badge&logo=thirdweb&logoColor=white)
 ![MetaMask](https://img.shields.io/badge/metamask-000000.svg?style=for-the-badge&logo=web3.js&logoColor=white)
 ![BNB Chain](https://img.shields.io/badge/bnb%20chain-000000.svg?style=for-the-badge&logo=bnbchain&logoColor=white)
 
@@ -92,6 +94,7 @@ I'm a full-stack developer and game developer and a dark-theme lover
 ![Debian](https://img.shields.io/badge/debian-000000.svg?style=for-the-badge&logo=debian&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/kali%20linux-000000.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![SSH](https://img.shields.io/badge/ssh-000000.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Trello](https://img.shields.io/badge/trello-000000.svg?style=for-the-badge&logo=trello&logoColor=white)
 ![AnyDesk](https://img.shields.io/badge/anydesk-000000.svg?style=for-the-badge&logo=anydesk&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/burp%20suite-000000.svg?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Diagrams.Net](https://img.shields.io/badge/diagrams-000000.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
@@ -106,6 +109,7 @@ I'm a full-stack developer and game developer and a dark-theme lover
 ![OBS Studio](https://img.shields.io/badge/obsstudio-000000.svg?style=for-the-badge&logo=obsstudio&logoColor=white)
 ![Plex](https://img.shields.io/badge/plex-000000.svg?style=for-the-badge&logo=plex&logoColor=white)
 ![Raspberry PI](https://img.shields.io/badge/raspberry%20pi-000000.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![VEGAS](https://img.shields.io/badge/vegas-000000.svg?style=for-the-badge&logo=vegas&logoColor=white)
 
 **— IDEs —**  
 ![Visual Studio](https://img.shields.io/badge/visual%20studio-000000.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
