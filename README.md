@@ -28,12 +28,16 @@ I'm a full-stack developer and game developer and a dark-theme lover
 ![Netcode for GameObjects](https://img.shields.io/badge/network%20for%20gameobjects-000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Monogame](https://img.shields.io/badge/monogame-000000.svg?style=for-the-badge&logo=monogame&logoColor=white)
 ![ArchECS](https://img.shields.io/badge/arch%20ecs-000000.svg?style=for-the-badge&logo=monogame&logoColor=white)
-![FMod](https://img.shields.io/badge/fmod-000000.svg?style=for-the-badge&logo=fmod&logoColor=white)
+![FMOD](https://img.shields.io/badge/fmod-000000.svg?style=for-the-badge&logo=fmod&logoColor=white)
 ![Audacity](https://img.shields.io/badge/audacity-000000.svg?style=for-the-badge&logo=audacity&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/aseprite-000000.svg?style=for-the-badge&logo=aseprite&logoColor=white)
+![Epic Games](https://img.shields.io/badge/epic%20games-000000.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Steamworks](https://img.shields.io/badge/steamworks-000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Steamworks.NET](https://img.shields.io/badge/steamworks.net-000000.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![Facepunch Steamworks](https://img.shields.io/badge/facepunch%20steamworks-000000.svg?style=for-the-badge&logo=facepunch&logoColor=white)
 ![CSSharp](https://img.shields.io/badge/CSSharp-000000.svg?style=for-the-badge&logo=counter-strike&logoColor=white)
+![Game Jolt](https://img.shields.io/badge/game%20jolt-000000.svg?style=for-the-badge&logo=gamejolt&logoColor=white)
 
 **— Frontend & Frameworks —**  
 ![React.JS](https://img.shields.io/badge/react.js-000000.svg?style=for-the-badge&logo=react&logoColor=white)
@@ -47,7 +51,7 @@ I'm a full-stack developer and game developer and a dark-theme lover
 ![Bun](https://img.shields.io/badge/bun-000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![ElysiaJS](https://img.shields.io/badge/elysiajs-000000.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![DiscordJS](https://img.shields.io/badge/discordjs-000000.svg?style=for-the-badge&logo=discorddotjs&logoColor=white)
-![GinGonic](https://img.shields.io/badge/gin-000000.svg?style=for-the-badge&logo=go&logoColor=white)
+![GinGonic](https://img.shields.io/badge/gin-000000.svg?style=for-the-badge&logo=gin&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -57,13 +61,14 @@ I'm a full-stack developer and game developer and a dark-theme lover
 **— Web3 —**  
 ![BlockChain](https://img.shields.io/badge/blockchain-000000.svg?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Web3JS](https://img.shields.io/badge/web3.js-000000.svg?style=for-the-badge&logo=web3.js&logoColor=white)
-![EthersJS](https://img.shields.io/badge/ethers.js-000000.svg?style=for-the-badge&logo=web3.js&logoColor=white)
+![Ethers](https://img.shields.io/badge/ethers-000000.svg?style=for-the-badge&logo=ethers&logoColor=white)
 ![MetaMask](https://img.shields.io/badge/metamask-000000.svg?style=for-the-badge&logo=web3.js&logoColor=white)
 ![BNB Chain](https://img.shields.io/badge/bnb%20chain-000000.svg?style=for-the-badge&logo=bnbchain&logoColor=white)
 
 **— DevOps & Tools —**  
 ![Git](https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-000000.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitHub Desktop](https://img.shields.io/badge/github%20desktop-000000.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-000000.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/docker%20compose-000000.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -78,6 +83,8 @@ I'm a full-stack developer and game developer and a dark-theme lover
 ![AnyDesk](https://img.shields.io/badge/anydesk-000000.svg?style=for-the-badge&logo=anydesk&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/burp%20suite-000000.svg?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Diagrams.Net](https://img.shields.io/badge/diagrams-000000.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Element](https://img.shields.io/badge/element-000000.svg?style=for-the-badge&logo=element&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-000000.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 **— IDEs —**  
 ![Visual Studio](https://img.shields.io/badge/visual%20studio-000000.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
