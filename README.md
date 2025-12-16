@@ -8,6 +8,7 @@ I'm a full-stack developer and game developer and a dark-theme lover
 <div align="center">
   
 **— Languages —**  
+![C++](https://img.shields.io/badge/c++-000000.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Golang](https://img.shields.io/badge/golang-000000.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-000000.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -32,6 +33,7 @@ I'm a full-stack developer and game developer and a dark-theme lover
 ![Aseprite](https://img.shields.io/badge/aseprite-000000.svg?style=for-the-badge&logo=aseprite&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Steamworks](https://img.shields.io/badge/steamworks-000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![CSSharp](https://img.shields.io/badge/CSSharp-000000.svg?style=for-the-badge&logo=counter-strike&logoColor=white)
 
 **— Frontend & Frameworks —**  
 ![React.JS](https://img.shields.io/badge/react.js-000000.svg?style=for-the-badge&logo=react&logoColor=white)
@@ -44,6 +46,7 @@ I'm a full-stack developer and game developer and a dark-theme lover
 ![NodeJS](https://img.shields.io/badge/nodejs-000000.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bun](https://img.shields.io/badge/bun-000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![ElysiaJS](https://img.shields.io/badge/elysiajs-000000.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![DiscordJS](https://img.shields.io/badge/discordjs-000000.svg?style=for-the-badge&logo=discorddotjs&logoColor=white)
 ![GinGonic](https://img.shields.io/badge/gin-000000.svg?style=for-the-badge&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -69,13 +72,18 @@ I'm a full-stack developer and game developer and a dark-theme lover
 ![Load Balancer](https://img.shields.io/badge/load%20balancer-000000.svg?style=for-the-badge&logo=loadbalancer&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/cloudflare-000000.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-000000.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/ubuntu-000000.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/debian-000000.svg?style=for-the-badge&logo=debian&logoColor=white)
 ![SSH](https://img.shields.io/badge/ssh-000000.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![AnyDesk](https://img.shields.io/badge/anydesk-000000.svg?style=for-the-badge&logo=anydesk&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/burp%20suite-000000.svg?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Diagrams.Net](https://img.shields.io/badge/diagrams-000000.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 
 **— IDEs —**  
 ![Visual Studio](https://img.shields.io/badge/visual%20studio-000000.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![JetBrains Rider](https://img.shields.io/badge/rider-000000.svg?style=for-the-badge&logo=rider&logoColor=white)
 ![VSCode](https://img.shields.io/badge/vscode-000000.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/cursor-000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/antigravity-000000.svg?style=for-the-badge&logo=antigravity&logoColor=white)
 
 </div>
