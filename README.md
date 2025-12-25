@@ -34,6 +34,7 @@ I'm a full-stack developer and game developer and a dark-theme lover
 ![Audacity](https://img.shields.io/badge/audacity-000000.svg?style=for-the-badge&logo=audacity&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/aseprite-000000.svg?style=for-the-badge&logo=aseprite&logoColor=white)
 ![Epic Games](https://img.shields.io/badge/epic%20games-000000.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+![GOG](https://img.shields.io/badge/gog-000000.svg?style=for-the-badge&logo=gogdotcom&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Steamworks](https://img.shields.io/badge/steamworks-000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Steamworks.NET](https://img.shields.io/badge/steamworks.net-000000.svg?style=for-the-badge&logo=dotnet&logoColor=white)
